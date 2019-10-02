@@ -23,16 +23,16 @@ this repository contains all the design resources used in our community over tim
 <p align="center">OSDC 2019 Orientation</p><br>
 
 <img src="/Meetup Posters/OSDC Meetup 1.0 2019.jpg" width="900" title="How to Open Source"><br>
-<p align="center">Meetup 1.0: How to Open Source</p><br>
+<p align="center">Meetup 1.0 2019: How to Open Source</p><br>
  
 <img src="/Meetup Posters/OSDC Meetup 2.0 2019.jpg" width="900" title="Intro to Git & Github"><br>
-<p align="center">Meetup 2.0: Intro to Git & Github</p><br>
+<p align="center">Meetup 2.0 2019: Intro to Git & Github</p><br>
 
 <img src="/Meetup Posters/OSDC Meetup 3.0 2019.jpg" width="900" title="Hands on Git & Github + Outreachy"><br>
-<p align="center">Meetup 3.0: Hands on Git & Github + Outreachy</p><br>
+<p align="center">Meetup 3.0 2019: Hands on Git & Github + Outreachy</p><br>
 
 <img src="/Meetup Posters/OSDC Meetup 4.0 2019.jpg" width="900" title="Hacktoberfest 2019"><br>
-<p align="center">Meetup 4.0: Hacktoberfest 2019</p><br>
+<p align="center">Meetup 4.0 2019: Hacktoberfest'19</p><br>
 
 </p>
 
