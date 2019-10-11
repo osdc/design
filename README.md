@@ -34,6 +34,9 @@ this repository contains all the design resources used in our community over tim
 <img src="/Meetup Posters/OSDC Meetup 4.0 2019.jpg" width="900" title="Hacktoberfest 2019"><br>
 <p align="center">Meetup 4.0 2019: Hacktoberfest'19</p><br>
 
+<img src="/Meetup Posters/OSDC Meetup 5.0 2019.jpg" width="900" title="Wanna Play Linux?"><br>
+<p align="center">Meetup 5.0 2019: Wanna Play Linux?</p><br>
+
 </p>
 
 ## :star2: Credit/Acknowledgment
