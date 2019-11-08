@@ -37,6 +37,9 @@ this repository contains all the design resources used in our community over tim
 <img src="/Meetup Posters/OSDC Meetup 5.0 2019.jpg" width="900" title="Wanna Play Linux?"><br>
 <p align="center">Meetup 5.0 2019: Wanna Play Linux?</p><br>
 
+<img src="/Meetup Posters/OSDC Meetup 7.0 2019.jpg" width="900" title="Getting Started with i3WM"><br>
+<p align="center">Meetup 7.0 2019: Getting Started with i3WM</p><br>
+
 </p>
 
 ## :star2: Credit/Acknowledgment
