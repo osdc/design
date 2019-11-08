@@ -5,6 +5,7 @@
 
 [![Open Issues](https://img.shields.io/github/issues/osdc/design?style=for-the-badge&logo=github)](https://github.com/osdc/design/issues) [![Forks](https://img.shields.io/github/forks/osdc/design?style=for-the-badge&logo=github)](https://github.com/osdc/design/network/members) [![Stars](https://img.shields.io/github/stars/osdc/design?style=for-the-badge&logo=reverbnation)](https://github.com/osdc/design/stargazers) ![Maintained](https://img.shields.io/maintenance/yes/2019?style=for-the-badge&logo=github) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative) ![Designed with Love](https://img.shields.io/badge/Designed%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi) [![Follow OSDC](https://img.shields.io/twitter/follow/osdcjiit?color=blue&label=Follow%20OSDC&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=osdcjiit) [![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=for-the-badge&logo=telegram)](https://telegram.me/jiitosdc)
 </div>
+
 ## :ledger: Index
 
 - [About](#beginner-about)
