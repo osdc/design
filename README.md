@@ -19,11 +19,14 @@ this repository contains all the design resources used in our community over tim
 
 ## :camera: Gallery
 
-<p align="center">
-  
+
+<details> 
+  <summary>Orientation 2019</summary>
 <img src="/Meetup Posters/OSDC Orientation 2019.jpg" width="900" title="Orientation 2019"><br>
 <p align="center">OSDC 2019 Orientation</p><br>
+</details>
 
+<p align="center">
 <img src="/Meetup Posters/OSDC Meetup 1.0 2019.jpg" width="900" title="How to Open Source"><br>
 <p align="center">Meetup 1.0 2019: How to Open Source</p><br>
  
