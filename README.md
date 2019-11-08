@@ -19,31 +19,42 @@ this repository contains all the design resources used in our community over tim
 
 ## :camera: Gallery
 
+<p align="center">
 
 <details> 
-  <summary>Orientation 2019</summary>
+  <summary>OSDC Orientation 2019</summary>
 <img src="/Meetup Posters/OSDC Orientation 2019.jpg" width="900" title="Orientation 2019"><br>
-<p align="center">OSDC 2019 Orientation</p><br>
 </details>
 
-<p align="center">
+<details> 
+  <summary>Meetup 1.0 2019: How to Open Source</summary>
 <img src="/Meetup Posters/OSDC Meetup 1.0 2019.jpg" width="900" title="How to Open Source"><br>
-<p align="center">Meetup 1.0 2019: How to Open Source</p><br>
- 
+</details>
+
+<details>
+  <summary>Meetup 2.0 2019: Intro to Git & Github</summary>
 <img src="/Meetup Posters/OSDC Meetup 2.0 2019.jpg" width="900" title="Intro to Git & Github"><br>
-<p align="center">Meetup 2.0 2019: Intro to Git & Github</p><br>
+</details>
 
+<details>
+  <summary>Meetup 3.0 2019: Hands on Git & Github + Outreachy</summary>
 <img src="/Meetup Posters/OSDC Meetup 3.0 2019.jpg" width="900" title="Hands on Git & Github + Outreachy"><br>
-<p align="center">Meetup 3.0 2019: Hands on Git & Github + Outreachy</p><br>
+</details>
 
+<details>
+  <summary>Meetup 4.0 2019: Hacktoberfest'19</summary>
 <img src="/Meetup Posters/OSDC Meetup 4.0 2019.jpg" width="900" title="Hacktoberfest 2019"><br>
-<p align="center">Meetup 4.0 2019: Hacktoberfest'19</p><br>
+</details>
 
+<details>
+  <summary>Meetup 5.0 2019: Wanna Play Linux?</summary>
 <img src="/Meetup Posters/OSDC Meetup 5.0 2019.jpg" width="900" title="Wanna Play Linux?"><br>
-<p align="center">Meetup 5.0 2019: Wanna Play Linux?</p><br>
+</details>
 
+<details>
+  <summary>Meetup 7.0 2019: Getting Started with i3WM</summary>
 <img src="/Meetup Posters/OSDC Meetup 7.0 2019.jpg" width="900" title="Getting Started with i3WM"><br>
-<p align="center">Meetup 7.0 2019: Getting Started with i3WM</p><br>
+</details>
 
 </p>
 
