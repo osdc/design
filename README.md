@@ -56,6 +56,11 @@ this repository contains all the design resources used in our community over tim
 <img src="/Meetup Posters/OSDC Meetup 7.0 2019.jpg" width="900" title="Getting Started with i3WM"><br>
 </details>
 
+<details>
+  <summary>Meetup 8.0 2019: Devsprint & Session on Hackathon</summary>
+<img src="/Meetup Posters/OSDC Meetup 8.0 2019.jpg" width="900" title="Devsprint & Session on Hackathon"><br>
+</details>
+
 </p>
 
 ## :star2: Credit/Acknowledgment
