@@ -15,17 +15,19 @@
 
 ## :beginner: About
 
-this repository contains all the design resources used in our community over time, it is also home to all our meetup posters.
+this repository contains all the design resources used in our community over time, it is also home to all our orientation, meetup & hackathon posters.
 
 ## :camera: Gallery
 
 <p align="center">
 
+#### Orientation
 <details> 
   <summary>OSDC Orientation 2019</summary>
 <img src="/Meetup Posters/OSDC Orientation 2019.jpg" width="900" title="Orientation 2019"><br>
 </details>
 
+#### Meetups
 <details> 
   <summary>Meetup 1.0 2019: How to Open Source</summary>
 <img src="/Meetup Posters/OSDC Meetup 1.0 2019.jpg" width="900" title="How to Open Source"><br>
@@ -60,6 +62,24 @@ this repository contains all the design resources used in our community over tim
   <summary>Meetup 8.0 2019: Devsprint & Session on Hackathon</summary>
 <img src="/Meetup Posters/OSDC Meetup 8.0 2019.jpg" width="900" title="Devsprint & Session on Hackathon"><br>
 </details>
+
+#### Hackathon
+
+<details>
+  <summary>OSDHack '19 Poster</summary>
+<img src="/Hackathon/OSDHack19 Poster.jpg" width="900" title="OSDHack '19 Poster"><br>
+</details>
+
+<details>
+  <summary>OSDHack '19 Banner</summary>
+<img src="/Hackathon/OSDHack19 Banner.jpg" width="900" title="OSDHack '19 Banner"><br>
+</details>
+
+<details>
+  <summary>OSDHack '19 Sticker</summary>
+<img src="/Hackathon/OSDHack19 Sticker.png" width="900" title="OSDHack '19 Sticker"><br>
+</details>
+
 
 </p>
 
