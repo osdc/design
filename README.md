@@ -71,8 +71,8 @@ this repository contains all the design resources used in our community over tim
 ##### 2019-20 Spring
 
 <details>
-  <summary>Meetup 9.0 2019: Session on APIs (REST & GRAPHQL)</summary>
-<img src="/Meetup Posters/OSDC Meetup 9.0 2019.jpg" width="900" title="Session on APIs (REST & GRAPHQL)"><br>
+  <summary>Meetup 9.0 2020: Session on APIs (REST & GRAPHQL)</summary>
+<img src="/Meetup Posters/OSDC Meetup 9.0 2020.jpg" width="900" title="Session on APIs (REST & GRAPHQL)"><br>
 </details>
 
 #### Hackathon
