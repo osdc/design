@@ -31,7 +31,7 @@ this repository contains all the design resources used in our community over tim
 
 #### Meetups
 
-- ##### 2019-20 Fall
+##### 2019-20 Fall
 
 <details> 
     <summary>Meetup 1.0 2019: How to Open Source</summary>
@@ -68,7 +68,7 @@ this repository contains all the design resources used in our community over tim
 <img src="/Meetup Posters/OSDC Meetup 8.0 2019.jpg" width="900" title="Devsprint & Session on Hackathon"><br>
 </details>
 
-- ##### 2019-20 Spring
+##### 2019-20 Spring
 
 <details>
   <summary>Meetup 9.0 2019: Session on APIs (REST & GRAPHQL)</summary>
