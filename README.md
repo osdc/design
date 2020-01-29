@@ -4,6 +4,7 @@
 </p>
 
 [![Open Issues](https://img.shields.io/github/issues/osdc/design?style=for-the-badge&logo=github)](https://github.com/osdc/design/issues) [![Forks](https://img.shields.io/github/forks/osdc/design?style=for-the-badge&logo=github)](https://github.com/osdc/design/network/members) [![Stars](https://img.shields.io/github/stars/osdc/design?style=for-the-badge&logo=reverbnation)](https://github.com/osdc/design/stargazers) ![Maintained](https://img.shields.io/maintenance/yes/2019?style=for-the-badge&logo=github) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative) ![Designed with Love](https://img.shields.io/badge/Designed%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi) [![Follow OSDC](https://img.shields.io/twitter/follow/osdcjiit?color=blue&label=Follow%20OSDC&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=osdcjiit) [![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=for-the-badge&logo=telegram)](https://telegram.me/jiitosdc)
+
 </div>
 
 ## :ledger: Index
@@ -22,15 +23,19 @@ this repository contains all the design resources used in our community over tim
 <p align="center">
 
 #### Orientation
+
 <details> 
   <summary>OSDC Orientation 2019</summary>
 <img src="/Meetup Posters/OSDC Orientation 2019.jpg" width="900" title="Orientation 2019"><br>
 </details>
 
 #### Meetups
+
+- ##### 2019-20 Fall
+
 <details> 
-  <summary>Meetup 1.0 2019: How to Open Source</summary>
-<img src="/Meetup Posters/OSDC Meetup 1.0 2019.jpg" width="900" title="How to Open Source"><br>
+    <summary>Meetup 1.0 2019: How to Open Source</summary>
+  <img src="/Meetup Posters/OSDC Meetup 1.0 2019.jpg" width="900" title="How to Open Source"><br>
 </details>
 
 <details>
@@ -63,6 +68,13 @@ this repository contains all the design resources used in our community over tim
 <img src="/Meetup Posters/OSDC Meetup 8.0 2019.jpg" width="900" title="Devsprint & Session on Hackathon"><br>
 </details>
 
+- ##### 2019-20 Spring
+
+<details>
+  <summary>Meetup 9.0 2019: Session on APIs (REST & GRAPHQL)</summary>
+<img src="/Meetup Posters/OSDC Meetup 9.0 2019.jpg" width="900" title="Session on APIs (REST & GRAPHQL)"><br>
+</details>
+
 #### Hackathon
 
 <details>
@@ -79,7 +91,6 @@ this repository contains all the design resources used in our community over tim
   <summary>OSDHack '19 Sticker</summary>
 <img src="/Hackathon/OSDHack19 Sticker.png" width="900" title="OSDHack '19 Sticker"><br>
 </details>
-
 
 </p>
 
