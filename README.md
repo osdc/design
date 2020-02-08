@@ -75,6 +75,11 @@ this repository contains all the design resources used in our community over tim
 <img src="/Meetup Posters/OSDC Meetup 9.0 2020.jpg" width="900" title="Session on APIs (REST & GRAPHQL)"><br>
 </details>
 
+<details>
+  <summary>Meetup 10.0 2020: GSoC and Outreachy Internships</summary>
+<img src="/Meetup Posters/OSDC Meetup 10.0 2020.jpg" width="900" title="GSoC and Outreachy Internships"><br>
+</details>
+
 #### Hackathon
 
 <details>
