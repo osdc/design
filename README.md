@@ -80,6 +80,11 @@ this repository contains all the design resources used in our community over tim
 <img src="/Meetup Posters/OSDC Meetup 10.0 2020.jpg" width="900" title="GSoC and Outreachy Internships"><br>
 </details>
 
+<details>
+  <summary>Meetup 11.0 2020: How to begin Kernel Development</summary>
+<img src="/Meetup Posters/OSDC Meetup 11.0 2020.jpg" width="900" title="Meetup 11.0 2020: How to begin Kernel Development"><br>
+</details>
+
 #### Hackathon
 
 <details>
