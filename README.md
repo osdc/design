@@ -25,11 +25,38 @@ this repository contains all the design resources used in our community over tim
 #### Orientation
 
 <details> 
+  <summary>OSDC Orientation 2020</summary>
+<img src="/Meetup Posters/OSDC Orientation 2020.jpg" width="900" title="Orientation 2020"><br>
+</details>
+
+<details> 
   <summary>OSDC Orientation 2019</summary>
 <img src="/Meetup Posters/OSDC Orientation 2019.jpg" width="900" title="Orientation 2019"><br>
 </details>
 
 #### Meetups
+
+##### 2020-21 Fall
+
+<details> 
+    <summary>Meetup 1.0 2020: Informal Meetup</summary>
+  <img src="/Meetup Posters/OSDC Meetup 1.0 2020 Fall.jpg" width="900" title="Informal Meetup"><br>
+</details>
+
+<details> 
+    <summary>Meetup 2.0 2020: How to Open Source</summary>
+  <img src="/Meetup Posters/OSDC Meetup 2.0 2020 Fall.jpg" width="900" title="How to Open Source"><br>
+</details>
+
+<details>
+  <summary>Meetup 3.0 2020: Git Set Go</summary>
+<img src="/Meetup Posters/OSDC Meetup 3.0 2020 Fall.jpg" width="900" title="Git Set Go"><br>
+</details>
+
+<details>
+  <summary>Meetup 4.0 2020: Wanna Play Linux?</summary>
+<img src="/Meetup Posters/OSDC Meetup 4.0 2020 Fall.jpg" width="900" title="Wanna Play Linux?"><br>
+</details>
 
 ##### 2019-20 Fall
 
